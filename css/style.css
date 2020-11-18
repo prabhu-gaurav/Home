@@ -1,0 +1,48 @@
+body
+{
+    text-align: center;
+    background-color: black;
+}
+
+h2,h1
+{
+    color: #faf200;
+}
+
+a 
+{
+	border-radius: 50px;
+    background-color: black;
+	color: white;
+	padding: 10px 20px;
+    margin: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 25px;
+}
+/*.stp
+{
+	width: 140px;
+	height: 150px;
+}*/
+.calc
+{
+	width: 125px;
+	height: 125px;
+	border-radius: 7%;
+}
+p{
+	color: #fff;
+}
+.clck
+{
+	width: 175px;
+	height: 175px;
+}
+.tim
+{
+	width: 250px;
+	height: 150px;
+}
