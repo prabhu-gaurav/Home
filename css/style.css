@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    background-color: black;
+    background: linear-gradient(grey,black,grey);
 }
 
 h2,h1
@@ -12,7 +12,7 @@ h2,h1
 a 
 {
 	border-radius: 50px;
-    background-color: black;
+    background: none;	
 	color: white;
 	padding: 10px 20px;
     margin: 25px;
@@ -21,6 +21,7 @@ a
     display: inline-block;
     font-weight: bold;
     font-size: 25px;
+	transition: 0.7s;
 }
 /*.stp
 {
@@ -38,11 +39,15 @@ p{
 }
 .clck
 {
-	width: 175px;
-	height: 175px;
+	width: 150px;
+	height: 90px;
+	margin-bottom:25px;
+	transition: 2s;
 }
 .tim
 {
-	width: 250px;
+	width: 150px;
 	height: 150px;
+	border-radius:250px;
+	transition: 2s;
 }
