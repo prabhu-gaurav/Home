@@ -51,3 +51,9 @@ p{
 	border-radius:250px;
 	transition: 2s;
 }
+
+.back
+{
+	width:175px;
+	height:150px;
+}
